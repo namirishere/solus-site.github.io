@@ -3,4 +3,4 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.120.0" # Match this to the Hugo version used by Solus
+  HUGO_VERSION = "0.147.0" # Match this to the Hugo version used by Solus
